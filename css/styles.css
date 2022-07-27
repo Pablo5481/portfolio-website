@@ -156,6 +156,10 @@ body {
     margin-left: auto;
     margin-right: auto;
   }
+
+  .about-me {
+    margin: 10px;
+}
   
   .page-footer {
     clear: both;
