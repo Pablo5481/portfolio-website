@@ -150,7 +150,7 @@ a {
     }
 
     .about-me {
-        margin: 10px;
+        margin: var(--margin-standard);
     }
     
     .page-footer {
