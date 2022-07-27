@@ -159,7 +159,7 @@ body {
   }
 
   .about-me {
-    margin: var(--margin-standard);
+    margin: 10px;
 }
   
   .page-footer {
