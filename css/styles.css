@@ -242,6 +242,9 @@ body {
       text-align: center;
       margin-right: 10px;
     }
+    .index-links {
+      text-align: center;
+    }
   }
 
   @media all and (min-width: 500px) and (max-width: 750px){
